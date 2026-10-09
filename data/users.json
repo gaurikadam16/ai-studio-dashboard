@@ -5,7 +5,7 @@
     "email": "gaurika1608@gmail.com",
     "salt": "193264b435d0277dddfdea65f6200bd3",
     "passwordHash": "904e6358e44b11f477cf35ef691bab9cbe549e6d1a0a7d6b0df2c091352da570a58512c119560a2c8bac4d18635cbb5c9cbdad0b29b1060f82fbfdb44268c241",
-    "credits": 423,
+    "credits": 500,
     "createdAt": 1790925369529
   },
   {
@@ -14,7 +14,7 @@
     "email": "gaurigkadam@coep.sveri.ac.in",
     "salt": "461ae97fe12fb0a5be60e64c9cd7f2f1",
     "passwordHash": "c1c654b95da8a0a152e09456812b831269a2ed367061969ee89ba161e8d140e5d77b37a98f64d6bbd966b892a952a0b053994c2284670c44956a01498a329de1",
-    "credits": 1000,
+    "credits": 500,
     "createdAt": 1790931823283
   }
 ]
